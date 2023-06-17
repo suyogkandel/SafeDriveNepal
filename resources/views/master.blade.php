@@ -8,11 +8,11 @@
 </head>
 <body>
     <nav class="bg-blue-600 p-4 text-white text-right px-24">
-        <a href="/report" class="font-bold text-lg mx-4">Report</a>
-        <a href="/map" class="font-bold text-lg mx-4">Map</a>
+        <a href="/report" class="font-bold text-lg m-4 p-4">Report</a>
+        <a href="/map" class="font-bold text-lg m-4 p-4">Map</a>
     </nav>
 
-    @yeild('content')
+    @yield('content')
 
     <footer class="bg-gray-800 text-white p-4 mt-4 flex justify-between px-36">
         <span>All Rights Reserved</span>
