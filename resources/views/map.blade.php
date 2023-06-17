@@ -56,22 +56,6 @@ map.on('click',function(e) {
     .addTo(map);
 })
 
-
-
-// //adding a circle
-// var circle = L.circle([27.707771, 85.319564], {
-//     color: 'red',
-//     fillColor: '#f03',
-//     fillOpacity: 0.5,
-//     radius: 500
-// }).addTo(map);
-
-// //adding a polygon
-// var polygon = L.polygon([
-//     [27.70776, 85.312],
-//     [27.70711, 85.311],
-//     [27.70669, 85.301]
-// ]).addTo(map);
     </script>
 
 @endsection

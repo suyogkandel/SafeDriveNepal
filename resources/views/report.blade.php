@@ -3,24 +3,36 @@
 <div class="p-4">
 <table border="1" style="border-collapse: collapse;">
   <tr>
-    <th>Name</th>
-    <th>Age</th>  
-    <th>Country</th>
+    <th>S.N</th>
+    <th>Vehicle No.</th>  
+    <th>Driver's Name</th>
+    <th>Route</th>
+    <th>Max Speed</th>
+    <th>Alert Message</th>
   </tr>
-  <tr>
-    <td>Harry Depp</td>
-    <td>28</td>
-    <td>Britain</td>
+  <tr class="bg-green-300">
+    <td>1</td>
+    <td>BA.6666</td>
+    <td>Pravin Gupta</td>
+    <td>harkapur-pulchock</td>
+    <td>66Km/hr</th>
+    <td>Normal</td>
   </tr>
-  <tr>
-    <td>John Smith</td>
-    <td>35</td>
-    <td>USA</td>
+  <tr class="bg-red-300">
+    <td>2</td>
+    <td>BA.2324</td>
+    <td>Ram Prasad Paudel</td>
+    <td>Orchid-Birendra</td>
+    <td>75Km/hr</td>
+    <td>OverSpeed</td>
   </tr>
-  <tr>
-    <td>Ram Krishna</td>
-    <td>19</td>
-    <td>Nepal</td>
+  <tr class="bg-green-300">
+    <td>3</td>
+    <td>BA.8769</td>
+    <td>Hari Neupane</td>
+    <td>Chaubiskothi-NewCapital</td>
+    <td>55Km/hr</td>
+    <td>Normal</td>
   </tr>
 </table>
 </div>
