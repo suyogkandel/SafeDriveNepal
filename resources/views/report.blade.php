@@ -34,6 +34,22 @@
     <td>55Km/hr</td>
     <td>Normal</td>
   </tr>
+  <tr class="bg-red-300">
+    <td>4</td>
+    <td>BA.9676</td>
+    <td>Ramkumari Shrestha</td>
+    <td>Devghat-ParasBusPark</td>
+    <td>80Km/hr</td>
+    <td>OverSpeed</td>
+  </tr>
+  <tr class="bg-green-300">
+    <td>5</td>
+    <td>BA.2657</td>
+    <td>Sadan Tharu</td>
+    <td>Pulchock-Dharmachock</td>
+    <td>60Km/hr</td>
+    <td>Normal</td>
+  </tr>
 </table>
 </div>
 @endsection
