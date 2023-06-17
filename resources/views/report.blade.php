@@ -1,7 +1,7 @@
 @extends('master')
 @section('content')
 <div class="p-4">
-<table border="1" style="border-collapse: collapse;">
+<table border="1" class="text-3xl" CELLPADDING=10 CELLSPACING=10 style="border-collapse: collapse; ">
   <tr>
     <th>S.N</th>
     <th>Vehicle No.</th>  
@@ -14,7 +14,7 @@
     <td>1</td>
     <td>BA.6666</td>
     <td>Pravin Gupta</td>
-    <td>harkapur-pulchock</td>
+    <td>Harkapur-Pulchock</td>
     <td>66Km/hr</th>
     <td>Normal</td>
   </tr>
@@ -30,7 +30,7 @@
     <td>3</td>
     <td>BA.8769</td>
     <td>Hari Neupane</td>
-    <td>Chaubiskothi-NewCapital</td>
+    <td>Chaubiskothi-NewCapitalCollege</td>
     <td>55Km/hr</td>
     <td>Normal</td>
   </tr>
@@ -51,5 +51,6 @@
     <td>Normal</td>
   </tr>
 </table>
+<div class="m-64"></div>
 </div>
 @endsection
